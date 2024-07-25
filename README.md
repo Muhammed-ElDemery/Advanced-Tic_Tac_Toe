@@ -1,7 +1,3 @@
 # Tic_Tac_Toe
 
-#This is TicTacToe game console-based.
-
-#Unit testing, Integration tests and CI-CD are applied to the code.
-
-# Hello , I am MORAD (TIC TAC TOE) //
+## A software project which was a GUI-based with two players mode play-with-AI mode, with a database to store profile information and history of last 10 games.
